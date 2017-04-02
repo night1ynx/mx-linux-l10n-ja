@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-24 21:38+0300\n"
+"PO-Revision-Date: 2017-03-21 20:18+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: exitantix.sh:16 exitantix.sh:53
+msgid "Log Out"
+msgstr "ログアウト"
+
+#: exitantix.sh:28
+msgid "Lock Screen"
+msgstr ""
+
+#: exitantix.sh:36
+msgid "Hibernate"
+msgstr "ハイバネート"
+
+#: exitantix.sh:43
+msgid "Reboot"
+msgstr "再起動"
+
+#: exitantix.sh:61
+msgid "Suspend"
+msgstr "サスペンド"
+
+#: exitantix.sh:68
+msgid "Shutdown"
+msgstr "シャットダウン"
+
+#: exitantix.sh:76
+msgid "Close"
+msgstr "閉じる"

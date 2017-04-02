@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2016-11-16 14:11-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>, 2016\n"
+"Language-Team: Japanese (https://www.transifex.com/anticapitalista/teams/10162/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Live-USB Maker GUI"
+msgstr ""
+
+msgid "Live System Detected.  Select Live-USB creation mode"
+msgstr ""
+
+msgid "Select Mode"
+msgstr "モードの選択"
+
+msgid "Select USB Device"
+msgstr "USB デバイスの選択"
+
+msgid "Clone Mode"
+msgstr "複製モード"
+
+msgid "Select ISO"
+msgstr "ISO を選択"
+
+msgid "Clone Running Live System"
+msgstr ""
+
+msgid "Information"
+msgstr "情報"
+
+msgid "Source is not an ISO file.  Please choose another file."
+msgstr ""
+
+msgid "Simple GUI for Live-USB Maker"
+msgstr ""
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "No target USB device detected.  Please insert a device and try again"
+msgstr ""
+
+msgid "License"
+msgstr "ライセンス"
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "About"
+msgstr ""
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Advanced"
+msgstr ""
+
+msgid "LiveUSB creation successful!"
+msgstr ""
+
+msgid "Operation stopped by user."
+msgstr ""
+
+msgid "A %s process (using PID %s) is already running"
+msgstr ""
+
+msgid "Please close that process before starting a new one"
+msgstr ""
+
+msgid "Failed to obtain lock on %s"
+msgstr ""
+
+msgid "Progress window closed, but job not done. Do you want to keep going?"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""

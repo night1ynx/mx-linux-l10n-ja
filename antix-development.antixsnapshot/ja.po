@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-07 00:12+0300\n"
+"PO-Revision-Date: 2017-03-21 19:47+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: antixsnapshot.sh:96
+msgid "\\t You need to be root!\\n"
+msgstr ""
+
+#: antixsnapshot.sh:101
+#, sh-format
+msgid ""
+"\\n Error! The text editor is set to ${text_editor},\n"
+" but it is not installed. Edit $configfile\n"
+" and set the text_editor variable to the editor of your choice.\n"
+" (examples: /usr/bin/vim, /usr/bin/joe)\\n"
+msgstr ""
+
+#: antixsnapshot.sh:110
+msgid "Live init scripts will be installed"
+msgstr ""
+
+#: antixsnapshot.sh:116
+msgid "Enabling dynamic fstab for live use."
+msgstr ""
+
+#: antixsnapshot.sh:136
+#, sh-format
+msgid ""
+"* You have a saved copy of the system using $saved_size of space\n"
+"   located at $work_dir/new-squashfs."
+msgstr ""
+
+#: antixsnapshot.sh:142
+#, sh-format
+msgid ""
+"* The temporary copy of the filesystem will be saved \n"
+"   at $work_dir/new-squashfs."
+msgstr ""
+
+#: antixsnapshot.sh:145
+#, sh-format
+msgid ""
+"* The temporary copy of the filesystem will be created \n"
+"   at $work_dir/new-squashfs and removed when this program finishes."
+msgstr ""
+
+#: antixsnapshot.sh:197
+#, sh-format
+msgid ""
+"\n"
+" You will need plenty of free space. It is recommended that free space \n"
+" (Avail) in the partition that holds the work directory (probably /)\n"
+" should be two times the total installed system size (Used). You can \n"
+" deduct the space taken up by previous snapshots and any saved copies of\n"
+" the system from the Used amount.\n"
+" \n"
+" * You are presently running kernel version $kernel_used\n"
+" * $kernels_avail is also available.\n"
+" * snapshot will use kernel version $kernel_used\n"
+"\n"
+" * You have $snapshot_count snapshots taking up $snapshot_size of disk space.\n"
+" $saved_copy\n"
+" $save_message\n"
+" * The snapshot directory is currently set to $snapshot_dir\n"
+" $tmp_warning\n"
+"\n"
+" You can change these and other settings by editing \n"
+" $configfile.\n"
+"\n"
+"\n"
+" Current disk usage:\n"
+" (For complete listing, exit and run 'df -h')\n"
+"\n"
+" $disk_space\n"
+" \n"
+"    Press ENTER to proceed or hit ctrl-c to exit.  "
+msgstr ""
+
+#: antixsnapshot.sh:276
+#, sh-format
+msgid "Removing old package-list directory:  $dir"
+msgstr ""
+
+#: antixsnapshot.sh:285
+msgid ""
+"\n"
+" You may now go to another virtual console to edit any files in the work\n"
+" directory, or hit ENTER and edit the boot menu.\n"
+" "
+msgstr ""
+
+#: antixsnapshot.sh:299
+msgid "Creating CD image file..."
+msgstr ""
+
+#: antixsnapshot.sh:305
+msgid "Making hybrid iso"
+msgstr ""
+
+#: antixsnapshot.sh:315
+msgid "Cleaning..."
+msgstr ""
+
+#: antixsnapshot.sh:324
+msgid "Reverting back."
+msgstr ""
+
+#: antixsnapshot.sh:328
+msgid "Remove live-init-antix"
+msgstr ""
+
+#: antixsnapshot.sh:332
+msgid "All finished!"
+msgstr ""

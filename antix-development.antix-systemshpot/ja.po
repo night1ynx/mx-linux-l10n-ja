@@ -1,0 +1,251 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 01:31+0300\n"
+"PO-Revision-Date: 2017-03-23 14:17+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: antix-system.sh:52
+msgid "Locale"
+msgstr "ロケール"
+
+#: antix-system.sh:53
+msgid "Disk_Management"
+msgstr "ディスク管理"
+
+#: antix-system.sh:54
+msgid "Grub"
+msgstr ""
+
+#: antix-system.sh:63
+msgid "Locale options"
+msgstr "ロケールオプション"
+
+#: antix-system.sh:65 antix-system.sh:119
+msgid "Enable locale options"
+msgstr ""
+
+#: antix-system.sh:75
+msgid "Names"
+msgstr "名前"
+
+#: antix-system.sh:77
+msgid "Enable name change"
+msgstr ""
+
+#: antix-system.sh:91
+msgid "Computer name"
+msgstr "コンピュータ名"
+
+#: antix-system.sh:99
+msgid "Computer domain"
+msgstr ""
+
+#: antix-system.sh:107
+msgid "Samba work group"
+msgstr ""
+
+#: antix-system.sh:117
+msgid "Locales"
+msgstr "ロケール"
+
+#: antix-system.sh:135
+msgid "Change language"
+msgstr "言語の変更"
+
+#: antix-system.sh:139
+msgid "enable language select"
+msgstr ""
+
+#: antix-system.sh:145
+msgid "select console locale"
+msgstr "コンソールロケールの選択"
+
+#: antix-system.sh:151
+msgid "select keyboard map"
+msgstr "キーボードマップの選択"
+
+#: antix-system.sh:156
+msgid "Change mouse order"
+msgstr ""
+
+#: antix-system.sh:161
+msgid "Leave default"
+msgstr ""
+
+#: antix-system.sh:162
+msgid "Left hand"
+msgstr "左利き"
+
+#: antix-system.sh:163
+msgid "Right hand"
+msgstr "右利き"
+
+#: antix-system.sh:172
+msgid "Disk management"
+msgstr "ディスク管理"
+
+#: antix-system.sh:174
+msgid "Enable Disk Management"
+msgstr ""
+
+#: antix-system.sh:188 antix-system.sh:287
+msgid "Options"
+msgstr "オプション"
+
+#: antix-system.sh:190
+msgid "Clear Package Cache"
+msgstr "パッケージキャッシュの消去"
+
+#: antix-system.sh:196
+msgid "Clear Logs"
+msgstr "ログの消去"
+
+#: antix-system.sh:202
+msgid "Show basic disk usage"
+msgstr ""
+
+#: antix-system.sh:208
+msgid "Run partition manager"
+msgstr ""
+
+#: antix-system.sh:214
+msgid "Run antiX to USB"
+msgstr "antiX to USB の実行"
+
+#: antix-system.sh:224
+msgid "Repair grub"
+msgstr ""
+
+#: antix-system.sh:226
+msgid "Enable grub repair"
+msgstr ""
+
+#: antix-system.sh:240
+msgid "Where to install"
+msgstr ""
+
+#: antix-system.sh:242
+msgid "Install on MBR"
+msgstr "MBR へインストール"
+
+#: antix-system.sh:248
+msgid "Install on root partition"
+msgstr ""
+
+#: antix-system.sh:256
+msgid "Select system boot disk"
+msgstr ""
+
+#: antix-system.sh:261 antix-system.sh:274
+msgid "None selected"
+msgstr "選択なし"
+
+#: antix-system.sh:269
+msgid "Select root partition"
+msgstr ""
+
+#: antix-system.sh:289
+msgid "Update grub menu"
+msgstr ""
+
+#: antix-system.sh:345 antix-system.sh:379
+msgid "Choose your locale for antiX applications"
+msgstr ""
+
+#: antix-system.sh:347
+msgid "Locale chosen, antix application locale left default"
+msgstr ""
+
+#: antix-system.sh:373
+#, sh-format
+msgid "Language has changed to $LOCALE"
+msgstr ""
+
+#: antix-system.sh:381
+msgid "Keymap left default"
+msgstr ""
+
+#: antix-system.sh:397
+#, sh-format
+msgid ""
+"Keyboard set to $KEYMAP, restart and use keymap by ALT + SHIFT + (LEFT / "
+"RIGHT)"
+msgstr ""
+
+#: antix-system.sh:401
+#, sh-format
+msgid ""
+"Keyboard set to $KEYMAP, restart and use keymap by ALT + SHIFT + (LEFT / "
+"RIGHT). Mouse layout set to $MOUSE"
+msgstr ""
+
+#: antix-system.sh:425 antix-system.sh:444
+msgid "Need to add some valid information to change names"
+msgstr ""
+
+#: antix-system.sh:429
+#, sh-format
+msgid "Samba workgroup has been changed from $OLDWORKGROUP to $NEWWORKGROUP"
+msgstr ""
+
+#: antix-system.sh:434
+#, sh-format
+msgid "Domain name has been changed from $OLDDOMAIN to $DOMAIN"
+msgstr ""
+
+#: antix-system.sh:437
+#, sh-format
+msgid ""
+"Domain name has been changed from $OLDDOMAIN to $DOMAIN and Samba workgroup "
+"from $OLDWORKGROUP to $NEWWORKGROUP"
+msgstr ""
+
+#: antix-system.sh:448
+#, sh-format
+msgid ""
+"Computer name has been changed from $OLDNAME to $NAME and Samba workgroup "
+"from $OLDWORKGROUP to $NEWWORKGROUP"
+msgstr ""
+
+#: antix-system.sh:453
+#, sh-format
+msgid ""
+"Computer name has been changed from $OLDNAME to $NAME and Domain name from "
+"$OLDDOMAIN to $DOMAIN"
+msgstr ""
+
+#: antix-system.sh:456
+#, sh-format
+msgid ""
+"Computer name name has been changed from $OLDNAME to $NAME, Domain name from"
+" $OLDDOMAIN to $DOMAIN and Samba workgroup from $OLDWORKGROUP to "
+"$NEWWORKGROUP"
+msgstr ""
+
+#: antix-system.sh:466
+msgid "Need to add some valid information to change locale options"
+msgstr ""
+
+#: antix-system.sh:470 antix-system.sh:482 antix-system.sh:496
+#: antix-system.sh:508
+#, sh-format
+msgid "Mouse Layout set to $MOUSE"
+msgstr ""
+
+#: antix-system.sh:523
+msgid "Impossible error, radio buttons require at least one choice"
+msgstr ""

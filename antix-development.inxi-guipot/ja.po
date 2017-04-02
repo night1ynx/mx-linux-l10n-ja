@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-27 01:56+0300\n"
+"PO-Revision-Date: 2017-03-23 15:05+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: inxi-gui.sh:32
+msgid "    -a|--audio\t\tview sound card information"
+msgstr "-a|--audio⇥⇥サウンドカード情報の表示"
+
+#: inxi-gui.sh:33
+msgid "    -c|--cpu    \tview cpu information"
+msgstr "-c|--cpu ⇥CPU情報の表示"
+
+#: inxi-gui.sh:34
+msgid "    -g|--graphics\tview graphics card information"
+msgstr "-g|--graphics⇥グラフィックカード情報の表示"
+
+#: inxi-gui.sh:35
+msgid "    -n|--nic\t\tview nic information"
+msgstr "-n|--nic⇥⇥NIC 情報の表示"
+
+#: inxi-gui.sh:36
+msgid "    -l|--system\t\tview system information"
+msgstr "-l|--system⇥⇥システム情報の表示"
+
+#: inxi-gui.sh:37
+msgid "    -hd|--hard-drive\tview hard drive information"
+msgstr ""
+
+#: inxi-gui.sh:38
+msgid "    -r|--repository\tview repository"
+msgstr ""
+
+#: inxi-gui.sh:39
+msgid "    -s|--sensor\t\tview sensor information"
+msgstr "-s|--sensor⇥⇥センサー情報の表示"
+
+#: inxi-gui.sh:40
+msgid "    --all\t\tview all (short) information"
+msgstr ""
+
+#: inxi-gui.sh:41
+msgid "    --help\t\tdisplay this help"
+msgstr "--help⇥⇥ヘルプを表示"
+
+#: inxi-gui.sh:48
+msgid "Audio"
+msgstr "オーディオ"
+
+#: inxi-gui.sh:49
+msgid "CPU"
+msgstr "CPU"
+
+#: inxi-gui.sh:50
+msgid "Graphics"
+msgstr "グラフィック"
+
+#: inxi-gui.sh:51
+msgid "NIC and IP address"
+msgstr ""
+
+#: inxi-gui.sh:52
+msgid "System"
+msgstr "システム"
+
+#: inxi-gui.sh:53
+msgid "Hard Drive"
+msgstr ""
+
+#: inxi-gui.sh:54
+msgid "Repository"
+msgstr "リボジトリ"
+
+#: inxi-gui.sh:55
+msgid "Sensor Output"
+msgstr "センサー出力"
+
+#: inxi-gui.sh:56
+msgid "All Short"
+msgstr ""
+
+#: inxi-gui.sh:57
+msgid "PC Information Options"
+msgstr ""
+
+#: inxi-gui.sh:187
+msgid "Edit?"
+msgstr ""
+
+#: inxi-gui.sh:187
+msgid "Edit Repositories?"
+msgstr ""
+
+#: inxi-gui.sh:243
+msgid "Unrecognized option: $1"
+msgstr "不正なオプション: $1"

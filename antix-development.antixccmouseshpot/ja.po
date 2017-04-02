@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:34+0300\n"
+"PO-Revision-Date: 2017-03-21 19:32+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: antixccmouse.sh:8 antixccmouse.sh:116 antixccmouse.sh:122
+#: antixccmouse.sh:128 antixccmouse.sh:132 antixccmouse.sh:138
+#: antixccmouse.sh:143
+msgid "Mouse Options"
+msgstr "マウスオプション"
+
+#: antixccmouse.sh:12
+msgid "Mouse Acceleration"
+msgstr ""
+
+#: antixccmouse.sh:14
+msgid "Change mouse motion"
+msgstr ""
+
+#: antixccmouse.sh:24
+msgid "Acceleration (Multiplier)"
+msgstr ""
+
+#: antixccmouse.sh:33
+msgid "Threshold (Pixels)"
+msgstr ""
+
+#: antixccmouse.sh:42
+msgid "Restore default motion"
+msgstr ""
+
+#: antixccmouse.sh:48
+msgid "Button Order"
+msgstr ""
+
+#: antixccmouse.sh:51
+msgid "No change"
+msgstr "変更しない"
+
+#: antixccmouse.sh:52
+msgid "Left hand layout"
+msgstr ""
+
+#: antixccmouse.sh:53
+msgid "Right hand layout"
+msgstr ""
+
+#: antixccmouse.sh:57
+msgid "Cursor Size"
+msgstr "カーソルサイズ"
+
+#: antixccmouse.sh:59
+msgid "Change cursor size"
+msgstr ""
+
+#: antixccmouse.sh:67
+msgid "Size (in pixels)"
+msgstr ""
+
+#: antixccmouse.sh:76
+msgid "Restore default size"
+msgstr ""
+
+#: antixccmouse.sh:82
+msgid "Cursor Theme"
+msgstr "カーソルテーマ"
+
+#: antixccmouse.sh:87
+msgid "After choosing a new theme, please\\n logout/login to see the changes."
+msgstr ""
+
+#: antixccmouse.sh:90
+msgid "Change cursor theme"
+msgstr ""
+
+#: antixccmouse.sh:116
+msgid "Mouse speed changed."
+msgstr ""
+
+#: antixccmouse.sh:122
+msgid "Using default mouse speed."
+msgstr ""
+
+#: antixccmouse.sh:128
+msgid "Now using left-hand layout."
+msgstr ""
+
+#: antixccmouse.sh:132
+msgid "Now using right-hand layout."
+msgstr ""
+
+#: antixccmouse.sh:138
+msgid "Cursor size changed. Please\\nlogout/login to see changes."
+msgstr ""
+
+#: antixccmouse.sh:143
+msgid "Default cursor size restored.\\nPlease logout/login to see changes."
+msgstr ""

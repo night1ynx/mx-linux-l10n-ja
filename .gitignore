@@ -1,0 +1,34 @@
+# already recovered
+antix-development.add-key/
+antix-development.add-start/
+
+# reviewd (maybe ok)
+antix-development.antixccslimshpot/
+antix-development.live-init-utils/
+
+# unknown
+antix-development.cli-installer-mxpot/
+antix-development.cli-installerpot/
+
+# don't modified
+antix-development.mx-user/
+antix-development.mx-welcome/
+antix-development.persist-autosave/
+antix-development.persist-config/
+antix-development.persist-makefs/
+antix-development.persist-password/
+antix-development.persist-save/
+antix-development.phonebookaddshpot/
+antix-development.phonebookantixshpot/
+antix-development.phonebookcatshpot/
+antix-development.phonebookremoveshpot/
+antix-development.phonebooksearchshpot/
+antix-development.remasterccsh/
+antix-development.remove-desktoppot/
+antix-development.restart-x/
+antix-development.set-dpipot/
+antix-development.slim-loginpot/
+antix-development.toram-eject/
+antix-development.unplugdriveshpot/
+antix-development.user-managementpot/
+antix-development.wallpaperpot/

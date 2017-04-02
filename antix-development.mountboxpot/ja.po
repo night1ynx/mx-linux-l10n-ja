@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 23:53+0300\n"
+"PO-Revision-Date: 2017-03-21 21:14+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: mountbox.sh:15
+msgid "<b>Harddisk devices list</b>"
+msgstr "<b>ハードディスクデバイスリストt</b>"
+
+#: mountbox.sh:17
+msgid "Partitions table"
+msgstr "パーティションテーブル"
+
+#: mountbox.sh:40
+msgid "<b>antiX - Mountbox</b>"
+msgstr "<b>antiX - Mountbox</b>"
+
+#: mountbox.sh:43
+msgid ""
+"Mount device in /media. Device can be flash key, cd/dvd or any USB device. "
+"Unmount device in rox."
+msgstr ""
+
+#: mountbox.sh:46
+msgid "Configuration"
+msgstr "設定"
+
+#: mountbox.sh:49
+msgid "<b>Device             : </b>"
+msgstr "<b>デバイス : </b>"
+
+#: mountbox.sh:56
+msgid "List"
+msgstr "一覧"
+
+#: mountbox.sh:63
+msgid "<b>Mount point   : </b>"
+msgstr "<b>マウントポイント : </b>"
+
+#: mountbox.sh:74
+msgid "Mount"
+msgstr "マウント"
+
+#: mountbox.sh:79
+msgid "Umount"
+msgstr "アンマウント"

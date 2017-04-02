@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Translators:
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2015-2017
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-07 00:12+0300\n"
+"PO-Revision-Date: 2017-03-23 14:16+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: antixsources.sh:15
+msgid ""
+"This tool sets your default Debian repository and then runs the installer.\n"
+"\n"
+"You can choose between:\n"
+"\n"
+"Stretch/Stable\n"
+"Testing (Experts)\n"
+"Sid/Unstable (Experts)\n"
+"\n"
+"This release of antiX defaults to Stretch/Stable and antiX/Stretch.\n"
+"\n"
+"If you do not know what to do, choose Cancel and the \n"
+"Stretch/Stable repositories will be used and the installer will begin.\n"
+"\n"
+"Press OK to continue."
+msgstr ""
+
+#: antixsources.sh:64
+#, sh-format
+msgid "Your Debian and antiX repositories are set to $x"
+msgstr ""
+
+#: antixsources.sh:69
+msgid "The installer will now run."
+msgstr ""
+
+#: antixsources.sh:95
+msgid "Choose ONE repository for Debian and antiX"
+msgstr ""
+
+#: antixsources.sh:96
+msgid "Choose"
+msgstr "選択"
+
+#: antixsources.sh:96
+msgid "Repository"
+msgstr ""
+
+#: antixsources.sh:128
+msgid "No item selected"
+msgstr ""

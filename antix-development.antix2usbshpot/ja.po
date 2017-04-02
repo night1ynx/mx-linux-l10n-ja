@@ -1,0 +1,455 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2014-2015
+# 夜猫 <night1ynxd@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-06 17:21+0300\n"
+"PO-Revision-Date: 2017-03-21 19:07+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: antix2usb.sh:114
+msgid "Error: ${exitval} - ${@}"
+msgstr ""
+
+#: antix2usb.sh:136
+msgid "Info: $1"
+msgstr ""
+
+#: antix2usb.sh:150
+msgid "Continue? (y/n) "
+msgstr ""
+
+#: antix2usb.sh:154
+msgid "Exiting"
+msgstr "終了します"
+
+#: antix2usb.sh:206
+msgid "Command line: $PROGNAME $*"
+msgstr ""
+
+#: antix2usb.sh:215
+msgid "Error parsing command line args"
+msgstr ""
+
+#: antix2usb.sh:295
+msgid "==== Missing parameters: iso and/or device."
+msgstr ""
+
+#: antix2usb.sh:314
+#, sh-format
+msgid "Cannot access iso file: \\'$ISO_FILENAME\\'"
+msgstr ""
+
+#: antix2usb.sh:323
+#, sh-format
+msgid "Device $DEVICE is not a valid USB device"
+msgstr ""
+
+#: antix2usb.sh:327
+#, sh-format
+msgid ""
+"Invalid -p|--persist option \\'$PERSIST\\': should be \\'root\\' or "
+"\\'home\\' or \\'both\\'"
+msgstr ""
+
+#: antix2usb.sh:340
+msgid "Invalid --format option: should be ext2, ext3 or fat32"
+msgstr ""
+
+#: antix2usb.sh:349
+#, sh-format
+msgid "Cannot install syslinux bootloader on a $PARTITION_FS partition"
+msgstr ""
+
+#: antix2usb.sh:351
+#, sh-format
+msgid "Cannot install extlinux bootloader on a $PARTITION_FS partition"
+msgstr ""
+
+#: antix2usb.sh:381
+msgid "Invalid label, allowed characters are: A-Z a-z 0-9 - _"
+msgstr ""
+
+#: antix2usb.sh:385
+msgid "Invalid label: length exceeds 16 characters"
+msgstr ""
+
+#: antix2usb.sh:408 antix2usb.sh:484
+msgid "No USB device found"
+msgstr ""
+
+#: antix2usb.sh:411
+msgid "Device    Model                       Size"
+msgstr ""
+
+#: antix2usb.sh:471
+#, sh-format
+msgid "Cannot access USB device $device. Sorry"
+msgstr ""
+
+#: antix2usb.sh:515
+msgid "syslinux appears not installed. Should I install it?"
+msgstr ""
+
+#: antix2usb.sh:520
+msgid "Failed to install syslinux"
+msgstr ""
+
+#: antix2usb.sh:529
+msgid "extlinux appears not installed. Should I install it?"
+msgstr ""
+
+#: antix2usb.sh:534
+msgid "Failed to install extlinux"
+msgstr ""
+
+#: antix2usb.sh:544
+#, sh-format
+msgid "Invalid boot mode: \\'$BOOT_MODE\\'. Exiting"
+msgstr ""
+
+#: antix2usb.sh:573
+msgid "ISO file doesn't fit in partition"
+msgstr ""
+
+#: antix2usb.sh:594
+#, sh-format
+msgid "Estimated write speed: $speed MB/s"
+msgstr ""
+
+#: antix2usb.sh:637
+#, sh-format
+msgid "$vol appears to be mounted! Unmount it, and retry. Exiting."
+msgstr ""
+
+#: antix2usb.sh:650
+#, sh-format
+msgid "Preparing bootable fat32 partition on device $device"
+msgstr ""
+
+#: antix2usb.sh:655
+#, sh-format
+msgid "Preparing bootable ext2 partition on device $device"
+msgstr ""
+
+#: antix2usb.sh:661
+#, sh-format
+msgid "Preparing bootable ext3 partition on device $device"
+msgstr ""
+
+#: antix2usb.sh:667
+#, sh-format
+msgid "Invalid file system type: \\'$fs\\'."
+msgstr ""
+
+#: antix2usb.sh:673
+#, sh-format
+msgid "USB device: $device Model: $DEVICE_INFO Size: $DEVICE_SIZE MB"
+msgstr ""
+
+#: antix2usb.sh:674
+#, sh-format
+msgid "Ready to format $device. This will erase all data on the device."
+msgstr ""
+
+#: antix2usb.sh:677
+msgid "Clearing partition table"
+msgstr ""
+
+#: antix2usb.sh:679
+#, sh-format
+msgid "Failed to zero $device"
+msgstr ""
+
+#: antix2usb.sh:686
+#, sh-format
+msgid "Creating bootable partition fs: ${fs}"
+msgstr ""
+
+#: antix2usb.sh:687
+msgid "Running fdisk.distrib..."
+msgstr ""
+
+#: antix2usb.sh:726
+#, sh-format
+msgid "Failed to create partition $partition on device: $device"
+msgstr ""
+
+#: antix2usb.sh:735
+#, sh-format
+msgid "Creating file system on $partition1, please wait..."
+msgstr ""
+
+#: antix2usb.sh:738
+#, sh-format
+msgid "Failed to format $partition1"
+msgstr ""
+
+#: antix2usb.sh:740
+#, sh-format
+msgid "Prepared bootable partition: $partition1 label: $label1"
+msgstr ""
+
+#: antix2usb.sh:756
+#, sh-format
+msgid "Failed to mount $partition1 on $usb_mountpoint"
+msgstr ""
+
+#: antix2usb.sh:761
+#, sh-format
+msgid "Cannot create boot directory on $usb_mountpoint"
+msgstr ""
+
+#: antix2usb.sh:763
+msgid "USB device mount point ready"
+msgstr ""
+
+#: antix2usb.sh:773
+#, sh-format
+msgid "Mounting $iso_file on temporary mount point"
+msgstr ""
+
+#: antix2usb.sh:776
+#, sh-format
+msgid "Failed to mount $iso_file on $iso_mountpoint"
+msgstr ""
+
+#: antix2usb.sh:779
+msgid "Iso file mount point ready"
+msgstr ""
+
+#: antix2usb.sh:790
+#, sh-format
+msgid "Unmounting $partition1 (please wait...)"
+msgstr ""
+
+#: antix2usb.sh:795
+#, sh-format
+msgid "Failed to remove USB mount point: $usb_mountpoint"
+msgstr ""
+
+#: antix2usb.sh:800
+#, sh-format
+msgid "Failed to remove ISO mount point: $iso_mountpoint"
+msgstr ""
+
+#: antix2usb.sh:802
+msgid "Mount points removed."
+msgstr ""
+
+#: antix2usb.sh:806
+msgid "Process completed."
+msgstr ""
+
+#: antix2usb.sh:809
+msgid "Process failed"
+msgstr ""
+
+#: antix2usb.sh:827 antix2usb.sh:909 antix2usb.sh:991
+msgid "USB mount point undefined"
+msgstr ""
+
+#: antix2usb.sh:835
+#, sh-format
+msgid "Failed to create directory ${usb_mountpoint}/antiX"
+msgstr ""
+
+#: antix2usb.sh:841
+#, sh-format
+msgid ""
+"Copying antiX compressed file system (${ISO_FILE_SIZE}) to the mounted "
+"device"
+msgstr ""
+
+#: antix2usb.sh:844
+msgid "This will take a few minutes, relax..."
+msgstr ""
+
+#: antix2usb.sh:847
+#, sh-format
+msgid "Failed to cp ${iso_mountpoint}/antiX"
+msgstr ""
+
+#: antix2usb.sh:850
+msgid "Files copied to mounted device"
+msgstr ""
+
+#: antix2usb.sh:852
+msgid "Copying files to boot directory"
+msgstr ""
+
+#: antix2usb.sh:858
+#, sh-format
+msgid ""
+"Failed to copy file ${iso_mountpoint}/boot/${i} to ${usb_mountpoint}/antiX"
+msgstr ""
+
+#: antix2usb.sh:866
+#, sh-format
+msgid "Failed to copy file ${iso_mountpoint}/${i} to ${usb_mountpoint}"
+msgstr ""
+
+#: antix2usb.sh:874
+#, sh-format
+msgid ""
+"Failed to copy file ${iso_mountpoint}/boot/${i} to ${usb_mountpoint}/boot"
+msgstr ""
+
+#: antix2usb.sh:891 antix2usb.sh:1116
+msgid "Invalid boot mode"
+msgstr ""
+
+#: antix2usb.sh:893
+msgid "Copy completed"
+msgstr ""
+
+#: antix2usb.sh:915
+msgid "Do you want to set up live persistence? [y|N]"
+msgstr ""
+
+#: antix2usb.sh:921
+#, sh-format
+msgid "You can set up $PRF and/or $PHF "
+msgstr ""
+
+#: antix2usb.sh:923
+#, sh-format
+msgid "Do you want to set up $PRF ? [y|N]"
+msgstr ""
+
+#: antix2usb.sh:927
+#, sh-format
+msgid "Set up $PRF"
+msgstr ""
+
+#: antix2usb.sh:928
+msgid ""
+"Type in file size. Make sure you have enough space. Just press Enter for "
+"default 512 (MB) "
+msgstr ""
+
+#: antix2usb.sh:934 antix2usb.sh:955
+msgid ""
+"Type in file type: ext2, ext3 or ext4. Just press Enter for recommended "
+"default ext2 "
+msgstr ""
+
+#: antix2usb.sh:942
+#, sh-format
+msgid "$PRF not set up"
+msgstr ""
+
+#: antix2usb.sh:944
+#, sh-format
+msgid "Do you want to set up $PHF ? [y|N]"
+msgstr ""
+
+#: antix2usb.sh:948
+#, sh-format
+msgid "Set up $PHF"
+msgstr ""
+
+#: antix2usb.sh:949
+msgid "Type in file size. Just press Enter for default 128 (MB)"
+msgstr ""
+
+#: antix2usb.sh:963
+#, sh-format
+msgid "$PHF not set up"
+msgstr ""
+
+#: antix2usb.sh:966
+msgid "Finished."
+msgstr ""
+
+#: antix2usb.sh:967
+#, sh-format
+msgid "File(s) have been saved to $usb_mountpoint/antiX "
+msgstr ""
+
+#: antix2usb.sh:971
+msgid "No persistence set up."
+msgstr ""
+
+#: antix2usb.sh:1019
+#, sh-format
+msgid "Preparing root persistence (size $CFS MB)..."
+msgstr ""
+
+#: antix2usb.sh:1029
+#, sh-format
+msgid "Preparing home persistence (size $CFS MB)..."
+msgstr ""
+
+#: antix2usb.sh:1049
+msgid "Copying isolinux config files from iso"
+msgstr ""
+
+#: antix2usb.sh:1065
+msgid ""
+"Copying isolinux directory and config files from iso and configuring for "
+"extlinux"
+msgstr ""
+
+#: antix2usb.sh:1086
+msgid ""
+"Copying grub directory and config files from iso and configuring for grub"
+msgstr ""
+
+#: antix2usb.sh:1089
+#, sh-format
+msgid "Failed to copy grub configuaration in ${usb_mountpoint}/boot/grub"
+msgstr ""
+
+#: antix2usb.sh:1133
+msgid "Installation of boot loader syslinux failed."
+msgstr ""
+
+#: antix2usb.sh:1137 antix2usb.sh:1160
+msgid "Installation of master boot record failed."
+msgstr ""
+
+#: antix2usb.sh:1139
+#, sh-format
+msgid "syslinux successfully installed to $partition1"
+msgstr ""
+
+#: antix2usb.sh:1155
+msgid "Installation of boot loader extlinux failed."
+msgstr ""
+
+#: antix2usb.sh:1162
+#, sh-format
+msgid "extlinux successfully installed to $partition1"
+msgstr ""
+
+#: antix2usb.sh:1199
+#, sh-format
+msgid "Installing grub on $device, please wait..."
+msgstr ""
+
+#: antix2usb.sh:1204
+#, sh-format
+msgid "$GRUB_INSTALL failed, root-directory=$mountpoint, device=$device"
+msgstr ""
+
+#: antix2usb.sh:1234
+#, sh-format
+msgid "Grub successfully installed to $device"
+msgstr ""
+
+#: antix2usb.sh:1301
+msgid "You need to be root to run this script."
+msgstr ""

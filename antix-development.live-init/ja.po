@@ -1,0 +1,159 @@
+# Translation for antiX Development: live-init file.
+# Copyright (C) 2012 -- 2016 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# BALLOON a.k.a. Fu-sen., 2014
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2016
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2014-2015
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2016-12-02 21:39-0700\n"
+"PO-Revision-Date: 2017-03-24 13:07+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Localizing/configuring X-Windows"
+msgstr ""
+
+#. No default user <USER-NAME> found on the system.
+msgid "No default user %s found on the system."
+msgstr ""
+
+msgid "Turning all boot mount options off"
+msgstr ""
+
+msgid "Turning automount off"
+msgstr ""
+
+msgid "Mounting all devices"
+msgstr ""
+
+msgid "Mounting usb devices"
+msgstr ""
+
+#. Invalid <mount/automount> option <invalid-option>
+msgid "Invalid %s option %s"
+msgstr ""
+
+msgid "Automount enabled"
+msgstr ""
+
+msgid "Automount disabled"
+msgstr ""
+
+msgid "Disabling fstab hotplugging (this will also disable automount)"
+msgstr ""
+
+msgid "Enabling fstab hotplugging"
+msgstr ""
+
+msgid "Bad fstab option %s"
+msgstr ""
+
+msgid "Unknown menu localization language %s"
+msgstr ""
+
+msgid "Directory not found %s"
+msgstr ""
+
+#. Localizing menus to <language> in </etc/skel>
+msgid "Localizing menus to %s in %s"
+msgstr ""
+
+msgid "Setting %s to %s"
+msgstr ""
+
+msgid "Bad mirror code %s (expected two letters)"
+msgstr ""
+
+#. Localizing source repos using <timezone|country-code>
+msgid "Localizing source repos using %s"
+msgstr ""
+
+#. Assuming <hwclock> is set to <utc|local> time
+msgid "Assuming %s is set to %s time"
+msgstr ""
+
+msgid "Bad desktop delay parameter %s"
+msgstr ""
+
+msgid "Setting desktop delay to %s"
+msgstr ""
+
+msgid "Removing previous auto-generated %s file"
+msgstr ""
+
+#. Note: KMS means "kernel mode switching"
+#. Disabling safe mode because of KMS <video-driver> video hardware
+msgid "Disabling safe mode because of KMS %s video hardware"
+msgstr ""
+
+msgid "Forcing X-Windows to use default mode"
+msgstr ""
+
+#. Configuring <xorg.conf> file with <arguments to xorg= cheat>
+msgid "Configuring %s file with %s"
+msgstr ""
+
+#. Forcing <acceleration-type> acceleration on <cpu-type>
+msgid "Forcing %s acceleration on %s"
+msgstr ""
+
+#. Forcing <driver-name> driver on <cpu-type>
+msgid "Forcing %s driver on %s"
+msgstr ""
+
+msgid "Creating file %s"
+msgstr ""
+
+msgid "Scanning for hardware specific video modules ..."
+msgstr ""
+
+#. Found <KMS> video module(s) <module-name(s)>
+msgid "Found %s video module(s) %s"
+msgstr ""
+
+msgid "Load module(s) %s"
+msgstr ""
+
+msgid "Found video module(s) %s"
+msgstr ""
+
+#. Found <type> kernel modules ...
+msgid "Found %s kernel modules ..."
+msgstr ""
+
+#. Found <driver-name> video driver
+msgid "Found %s video driver"
+msgstr ""
+
+msgid "Setting Conky width to %s"
+msgstr ""
+
+#. Invalid <option-name> boot parameter <bad-parameter>
+msgid "Invalid %s boot parameter %s"
+msgstr ""
+
+msgid "Setting console blanking timeout to %s minute(s)"
+msgstr ""
+
+msgid "Files already exist under %s"
+msgstr ""
+
+msgid "Not creating or populating %s"
+msgstr ""
+
+msgid "Populating %s directory"
+msgstr ""
+
+msgid "Setting desktop theme to %s"
+msgstr ""

@@ -1,0 +1,546 @@
+# Translation for antiX Development: init file.
+# Copyright (C) 2012 -- 2016 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# BALLOON a.k.a. Fu-sen., 2014
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2016
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2015
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2016-11-09 18:16-0700\n"
+"PO-Revision-Date: 2017-03-23 15:26+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%s disabled due to outdated persistence scripts and libs"
+msgstr ""
+
+msgid "The %s program took %s seconds"
+msgstr ""
+
+msgid "Detected %s init system"
+msgstr ""
+
+msgid "Waiting %s seconds for buses to settle ..."
+msgstr ""
+
+msgid "Enter breakpoint(s) separated by commas"
+msgstr ""
+
+msgid "Welcome to %s"
+msgstr ""
+
+msgid "Welcome to %s! Powered by %s"
+msgstr ""
+
+msgid "For command line install, login as %s (password=%s)."
+msgstr ""
+
+msgid "Enter the command %s.  Follow the instructions."
+msgstr ""
+
+msgid "Current boot codes"
+msgstr ""
+
+msgid "Possibly unknown or misspelled boot codes"
+msgstr ""
+
+msgid "don't take this too seriously"
+msgstr ""
+
+#. Unknown options in <disable=abcRxyz>.  Unknown options(s): <R>
+msgid "Unknown option(s) in %s.  Unknown option(s): %s"
+msgstr ""
+
+msgid "Loading all modules"
+msgstr ""
+
+msgid "Loading hardware specific modules ..."
+msgstr ""
+
+msgid "No %s devices found"
+msgstr ""
+
+msgid "The %s parameter is blocking device %s"
+msgstr ""
+
+msgid "Even though device %s has %s"
+msgstr ""
+
+msgid "Remove the %s boot parameter to allow that device to be scanned"
+msgstr ""
+
+msgid "Device found but could not find %s file on device"
+msgstr ""
+
+#. Retry for <N> seconds <...>
+msgid "Retry for %s seconds %s"
+msgstr ""
+
+#. Scan <type> devices.  Look for <type> file(s) <file-names>
+msgid "Scan %s devices.  Look for %s file(s) %s"
+msgstr ""
+
+msgid "Filtered devices %s"
+msgstr ""
+
+#. Look for files(s) <file-list> on device(s) <device-list>
+msgid "Look for file(s) %s on device(s) %s"
+msgstr ""
+
+msgid "Found new device(s) %s"
+msgstr ""
+
+msgid "Device %s is already mounted at %s"
+msgstr ""
+
+#. Mounted <type> device at <mount point>
+msgid "Mounted %s device. Mounted device %s at %s"
+msgstr ""
+
+#. <type> device filesystem: <filesystem-name>
+msgid "%s device filesystem: %s"
+msgstr ""
+
+#. Look for <type> devices with <attribute X>
+msgid "Look for %s device with %s"
+msgstr ""
+
+#. Found existing <frugal> install
+msgid "Found existing %s install"
+msgstr ""
+
+#. Could not find <type> file <file-name>
+msgid "Could not find %s file %s"
+msgstr ""
+
+msgid "Looking for partitions with at least %s free.  Please wait ..."
+msgstr ""
+
+msgid "quit"
+msgstr "終了"
+
+#. Do you want to do a <frugal> install on the <name> device?
+msgid "Do you want to do a %s install on the %s device?"
+msgstr ""
+
+#. Doing <frugal> install, please be patient ...
+msgid "Doing %s install, please be patient ..."
+msgstr ""
+
+msgid "copy %s to %s"
+msgstr ""
+
+#. The <frugal> install succeeded
+msgid "The %s install succeeded"
+msgstr ""
+
+msgid "Could not mount %s as a %s file"
+msgstr ""
+
+msgid "File %s not found on device %s"
+msgstr ""
+
+msgid "Searched devices: %s"
+msgstr ""
+
+msgid "Searched types: %s"
+msgstr ""
+
+msgid "All block devices: %s"
+msgstr ""
+
+msgid "Please contact %s at %s"
+msgstr ""
+
+msgid "Kernel version mismatch"
+msgstr ""
+
+msgid "Kernel version %s"
+msgstr "カーネルバージョン %s"
+
+msgid "The module directory %s is missing"
+msgstr ""
+
+#. Could not mount <file name> as a <type> filesystem
+msgid "Could not mount %s as a %s filesystem"
+msgstr ""
+
+#. No <VID> found in <file-name>
+msgid "No %s found in %s"
+msgstr ""
+
+msgid "Create %s failed"
+msgstr ""
+
+msgid "Found %s"
+msgstr ""
+
+msgid "Neither %s nor %s is available"
+msgstr ""
+
+msgid "The %s filesystem is not available.  Using %s"
+msgstr ""
+
+msgid "Forcing use of %s to match existing rootfs file"
+msgstr ""
+
+msgid "The %s filesystem is not available. Can't use this %s file"
+msgstr ""
+
+#. Enable <type> persistence
+msgid "Enable %s persistence"
+msgstr ""
+
+msgid "Could not mount %s"
+msgstr ""
+
+#. Create <something tmpfs> at <directory> <(size)>
+msgid "Create %s at %s %s"
+msgstr ""
+
+msgid "check %s filesystem"
+msgstr ""
+
+msgid "There were no errors on %s"
+msgstr ""
+
+msgid "boot device"
+msgstr ""
+
+#. Begin [doing some sub process]
+msgid "Begin"
+msgstr ""
+
+msgid "Skip Error: %s"
+msgstr ""
+
+msgid "power off"
+msgstr "電源オフ"
+
+msgid "reboot"
+msgstr "再起動"
+
+msgid "Unknown command"
+msgstr ""
+
+msgid "Please try again"
+msgstr ""
+
+msgid "Unmount successful"
+msgstr ""
+
+msgid "Press <Enter> to %s"
+msgstr ""
+
+msgid "Will now %s the system"
+msgstr ""
+
+msgid "Fatal Error"
+msgstr ""
+
+msgid "Non-Fatal Error"
+msgstr ""
+
+msgid "continue"
+msgstr ""
+
+msgid "yes"
+msgstr "はい"
+
+msgid "no"
+msgstr "いいえ"
+
+msgid "You must answer %s or %s. Please try again"
+msgstr ""
+
+msgid "The default is"
+msgstr ""
+
+msgid "default"
+msgstr "デフォルト"
+
+msgid "Press <%s> for the default selection"
+msgstr ""
+
+msgid "enter"
+msgstr ""
+
+msgid "The number <%s> is out of range"
+msgstr ""
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "Current default"
+msgstr "現在のデフォルト"
+
+msgid "Reset"
+msgstr "リセット"
+
+msgid "Keeping default %s"
+msgstr ""
+
+msgid "Previous default %s erased"
+msgstr ""
+
+#. <Timezone> set to <Denver>
+msgid "%s set to %s"
+msgstr ""
+
+msgid "Select Language"
+msgstr "言語を選択"
+
+msgid "Languages are listed alphabetically"
+msgstr "言語はアルファベット順に表示されています"
+
+msgid "Language"
+msgstr "言語"
+
+msgid "Select Timezone"
+msgstr "タイムゾーンを選択"
+
+msgid "Timezones are listed by longitude"
+msgstr ""
+
+msgid "Timezone"
+msgstr "タイムゾーン"
+
+msgid "Select Option"
+msgstr "オプションの選択"
+
+msgid "Only one option can be selected"
+msgstr ""
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Select Mounting Option"
+msgstr "マウントオプションを選択"
+
+msgid "Automounting is enabled by default"
+msgstr "デフォルトで自動マウントを有効にする"
+
+msgid "Mount"
+msgstr "マウント"
+
+msgid "automount|mount=*"
+msgstr ""
+
+msgid "Select Persistence Option"
+msgstr ""
+
+msgid "Persistence"
+msgstr ""
+
+msgid "Select font size"
+msgstr "フォントサイズを選択"
+
+msgid "Scale fonts in graphics display.  Default is 1.0"
+msgstr ""
+
+msgid "Font size"
+msgstr "フォントサイズ"
+
+msgid "Select Desktop"
+msgstr "デスクトップの選択"
+
+msgid "Desktop"
+msgstr "デスクトップ"
+
+msgid "Save these changes?"
+msgstr ""
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Please select %s device:"
+msgstr ""
+
+msgid "reverse video"
+msgstr ""
+
+msgid "Partitions that can't be used are listed but not selectable."
+msgstr ""
+
+msgid "The limiting factors are highlighted in %s"
+msgstr ""
+
+msgid "The device %s already has label %s"
+msgstr ""
+
+msgid "Update label on %s from %s to %s?"
+msgstr ""
+
+msgid "The device %s has no label"
+msgstr ""
+
+msgid "Give %s the label %s?"
+msgstr ""
+
+msgid "Label updated to %s"
+msgstr ""
+
+msgid "Valid %s"
+msgstr ""
+
+msgid "Could not find device %s"
+msgstr ""
+
+msgid "Valid devices"
+msgstr ""
+
+#. "<VID> mismatch between <linuxfs> and <rootfs>
+msgid "%s mismatch between %s and %s"
+msgstr ""
+
+#. Copy <linuxfs VID> to empty <rootfs>
+msgid "Copy %s to empty %s"
+msgstr ""
+
+#. <type> file not found <file-name>
+msgid "%s file not found %s"
+msgstr ""
+
+msgid "No %s found in file %s"
+msgstr ""
+
+msgid "No %s found but there is a %s"
+msgstr ""
+
+#. Check <md5> of files in <some> directory
+msgid "Check %s of files in %s directory. Please be patient ..."
+msgstr ""
+
+msgid "file: %s"
+msgstr "ファイル: %s"
+
+msgid "result: %s"
+msgstr ""
+
+#. No <md5> checksums were found in <directory>.  Can't do any <md5> checks.
+msgid "No %s checksums were found in %s. Can't do any %s checks."
+msgstr ""
+
+msgid "At least one %s checksum did not match"
+msgstr ""
+
+msgid "Success!  The file passed"
+msgstr ""
+
+#. Success! All <count> file(s) passed
+msgid "Success!  All %s files passed"
+msgstr ""
+
+msgid "Wait %s seconds"
+msgstr ""
+
+msgid "copy %s file to RAM"
+msgstr ""
+
+msgid "Will copy files from %s to %s. Please be patient ..."
+msgstr ""
+
+msgid "Size of original %12s"
+msgstr ""
+
+msgid "Size of copy %12s"
+msgstr ""
+
+msgid "Copy to RAM succeeded"
+msgstr ""
+
+#. Invalid <persist> value(s) <bad-values>
+msgid "Mount persistence device (if needed)"
+msgstr ""
+
+msgid "create %s persistence file"
+msgstr ""
+
+msgid "Default size: %s Meg.  Filesystem type: %s"
+msgstr ""
+
+msgid "This default size will leave %s Meg free"
+msgstr ""
+
+msgid "Create %s file, manually or automatically"
+msgstr ""
+
+msgid "create automatically"
+msgstr ""
+
+msgid "create custom"
+msgstr ""
+
+msgid "Please select size of %s file"
+msgstr ""
+
+msgid "There is %s Meg available on the device"
+msgstr ""
+
+msgid "Filesystem size %s Meg"
+msgstr ""
+
+msgid "Create %s file of type %s and size %s Meg"
+msgstr ""
+
+msgid "Please wait while existing partitions are found ..."
+msgstr ""
+
+msgid "persistence"
+msgstr ""
+
+msgid "persist device"
+msgstr ""
+
+msgid "Enabled %s persistence"
+msgstr ""
+
+msgid "Copy %s Megabytes to RAM ..."
+msgstr ""
+
+msgid "mount persistence file %s at %s"
+msgstr ""
+
+#. Could not mount file <filename> for <type> persistence
+msgid "Do you want to enable home persistence anyway?"
+msgstr ""
+
+msgid "Strange, couldn't move the homefs mountpoint"
+msgstr ""
+
+msgid "There are %4s Meg of files that will get hidden by home persistence"
+msgstr ""
+
+msgid "There are %4s Meg free on the home persistence device"
+msgstr ""
+
+msgid "There's not enough space to copy all the files"
+msgstr ""
+
+msgid "Do you want to copy the files to the home persistence device?"
+msgstr ""
+
+msgid "No %s file found.  Rename %s to %s"
+msgstr ""
+
+msgid "Resize homefs. Copy contents of %s to %s"
+msgstr ""
+
+msgid "Copy home filesystem.  Please be patient ..."
+msgstr ""
+
+msgid "umount %s"
+msgstr ""
+
+msgid "umount of %s failed"
+msgstr ""

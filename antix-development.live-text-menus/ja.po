@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2016
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2016-10-16 15:42-0600\n"
+"PO-Revision-Date: 2017-03-21 20:57+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "Check integrity of the live media"
+msgstr ""
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr ""
+
+msgid "Copy the compressed file system to RAM"
+msgstr ""
+
+msgid "Finish booting from a LiveUSB"
+msgstr ""
+
+msgid "Finish booting from a hard drive"
+msgstr ""
+
+msgid "Disable all usb-2 devices while booting"
+msgstr ""
+
+msgid "Have the system help determine the clock setting"
+msgstr ""
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr ""
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr ""
+
+msgid "Change passwords before booting"
+msgstr ""
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr ""
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr ""
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr ""
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr ""
+
+msgid "Automatically mount devices when plugged in"
+msgstr ""
+
+msgid "... and mount all usb devices at boot time"
+msgstr ""
+
+msgid "... and mount ALL devices at boot time"
+msgstr ""
+
+msgid "Disable all extra mounting and automounting"
+msgstr ""
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr ""
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr ""
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr ""
+
+msgid "Only home persistence"
+msgstr ""
+
+msgid "Frugal with both root and home persistence"
+msgstr ""
+
+msgid "Frugal with only root persistence"
+msgstr ""
+
+msgid "Frugal with home and static root persistence"
+msgstr ""
+
+msgid "Frugal with only home persistence"
+msgstr ""
+
+msgid "Only Frugal, no persistence"
+msgstr ""
+
+msgid "Yes (default)"
+msgstr "はい (デフォルト)"
+
+msgid "No"
+msgstr "いいえ"

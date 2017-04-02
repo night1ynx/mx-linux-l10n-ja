@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 17:18+EEST\n"
+"PO-Revision-Date: 2017-03-21 20:20+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: group-management.py:40
+msgid ""
+"Notice!\n"
+"        All of the users in this group will be \n"
+"        logged, unless completely remove\n"
+"        is checked."
+msgstr ""
+
+#: group-management.py:44
+msgid ""
+"Notice!\n"
+"        A group can only be recovered if the group\n"
+"        has not been completely removed!"
+msgstr ""
+
+#: group-management.py:72 group-management.py:192
+msgid "The password cannot contain spaces"
+msgstr ""
+
+#: group-management.py:74 group-management.py:194
+msgid "You need to enter a password"
+msgstr ""
+
+#: group-management.py:76 group-management.py:196
+msgid "First and second password must be identical"
+msgstr ""
+
+#: group-management.py:81 group-management.py:313 group-management.py:346
+#: group-management.py:421 group-management.py:499
+msgid "You must choose a group"
+msgstr ""
+
+#: group-management.py:96
+msgid "Password Management"
+msgstr "パスワード管理"
+
+#: group-management.py:100 group-management.py:444
+msgid "Choose group"
+msgstr "グループを選択"
+
+#: group-management.py:107 group-management.py:353 group-management.py:451
+#: group-management.py:533
+msgid "No group Selected:"
+msgstr "グループ未選択:"
+
+#: group-management.py:117
+msgid "group Password"
+msgstr "グループパスワード"
+
+#: group-management.py:126 group-management.py:248
+msgid "password"
+msgstr "パスワード"
+
+#: group-management.py:131 group-management.py:253
+msgid "password again"
+msgstr ""
+
+#: group-management.py:140 group-management.py:289 group-management.py:395
+#: group-management.py:475 group-management.py:547
+msgid "Apply"
+msgstr "適用"
+
+#: group-management.py:148 group-management.py:297 group-management.py:403
+#: group-management.py:483 group-management.py:555
+msgid "Close"
+msgstr "閉じる"
+
+#: group-management.py:155
+msgid "Passwords"
+msgstr "パスワード"
+
+#: group-management.py:162
+msgid "The groupname cannot contain spaces"
+msgstr ""
+
+#: group-management.py:164
+msgid "You need to enter a groupname"
+msgstr ""
+
+#: group-management.py:220
+msgid "Add groups"
+msgstr "グループの追加"
+
+#: group-management.py:224
+msgid "Enter groupname"
+msgstr ""
+
+#: group-management.py:233
+msgid "Group Password"
+msgstr "グループパスワード"
+
+#: group-management.py:257 group-management.py:363
+msgid "Users"
+msgstr ""
+
+#: group-management.py:304
+msgid "Add group"
+msgstr "グループ追加"
+
+#: group-management.py:342 group-management.py:618
+msgid "Users to Group"
+msgstr ""
+
+#: group-management.py:410
+msgid "Repair group"
+msgstr ""
+
+#: group-management.py:436
+msgid "group Removal"
+msgstr "グループの削除"
+
+#: group-management.py:461
+msgid "Completely Remove group?"
+msgstr ""
+
+#: group-management.py:466
+msgid "Completely Remove group"
+msgstr ""
+
+#: group-management.py:490
+msgid "Remove group"
+msgstr "グループを削除"
+
+#: group-management.py:500 group-management.py:531
+msgid "No group Recoverable:"
+msgstr ""
+
+#: group-management.py:501
+msgid "There are no records of a recoverable group."
+msgstr ""
+
+#: group-management.py:516 group-management.py:562
+msgid "Recover group"
+msgstr ""
+
+#: group-management.py:523
+msgid "Select Group"
+msgstr ""
+
+#: group-management.py:594
+msgid "You MUST be root to use this application!"
+msgstr ""
+
+#: group-management.py:612
+msgid "Password"
+msgstr "パスワード"
+
+#: group-management.py:616
+msgid "Add Group"
+msgstr "グループの追加"
+
+#: group-management.py:622
+msgid "Remove"
+msgstr "削除"
+
+#: group-management.py:624
+msgid "Recover"
+msgstr ""

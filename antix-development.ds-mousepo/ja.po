@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-02 16:37+0300\n"
+"PO-Revision-Date: 2017-03-21 20:17+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ds-mouse.py:14
+msgid ""
+"There is an error,\n"
+"please rerun and correct the following error!"
+msgstr ""
+
+#: ds-mouse.py:15 ds-mouse.py:22 ds-mouse.py:23
+msgid "Successfully updated"
+msgstr ""
+
+#: ds-mouse.py:84
+msgid "Could not run ds-mouse -all"
+msgstr ""
+
+#: ds-mouse.py:86
+msgid "All Options Set"
+msgstr ""
+
+#: ds-mouse.py:95
+msgid "Could not run ds-mouse -a"
+msgstr ""
+
+#: ds-mouse.py:97
+msgid "Mouse Acceleration Reset"
+msgstr ""
+
+#: ds-mouse.py:104
+msgid "Could not run ds-mouse -s"
+msgstr ""
+
+#: ds-mouse.py:106
+msgid "Cursor Size Reset"
+msgstr "カーソルサイズのリセット"
+
+#: ds-mouse.py:137
+msgid "Mouse Options"
+msgstr "マウスオプション"
+
+#: ds-mouse.py:144
+msgid "Mouse Acceleration"
+msgstr ""
+
+#: ds-mouse.py:145
+msgid "Acceleration (Multiplier)"
+msgstr ""
+
+#: ds-mouse.py:154
+msgid "Threshold (Pixels)"
+msgstr ""
+
+#: ds-mouse.py:168
+msgid "Button Order"
+msgstr ""
+
+#: ds-mouse.py:171
+msgid "Left hand layout"
+msgstr ""
+
+#: ds-mouse.py:172
+msgid "Right hand layout"
+msgstr ""
+
+#: ds-mouse.py:177
+msgid "Cursor Size"
+msgstr "カーソルサイズ"
+
+#: ds-mouse.py:178
+msgid "Size (in pixels)"
+msgstr ""
+
+#: ds-mouse.py:192
+msgid "Cursor Theme"
+msgstr "カーソルテーマ"
+
+#: ds-mouse.py:193
+msgid ""
+"May require logout/login \n"
+"to see the changes.\n"
+msgstr ""
+
+#: ds-mouse.py:195
+msgid "Change cursor theme"
+msgstr "カーソルテーマの変更"

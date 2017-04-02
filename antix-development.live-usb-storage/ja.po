@@ -1,0 +1,52 @@
+# Translation for antiX Development: live-usb-storage file.
+# Copyright (C) 2012 -- 2016 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2016-10-17 20:22-0600\n"
+"PO-Revision-Date: 2017-03-21 20:59+0000\n"
+"Last-Translator: 夜猫 <night1ynxd@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Configure LiveUSB Storage"
+msgstr ""
+
+msgid "No default user %s found on the system."
+msgstr ""
+
+msgid "Disabling LiveUSB storage"
+msgstr ""
+
+msgid "Disable LiveUSB Storage"
+msgstr ""
+
+msgid "Home directory for user %s not found"
+msgstr ""
+
+msgid "Could not find UID or GUID for user %s"
+msgstr ""
+
+msgid "Found non-numeric UID or GUID for user %s: %s"
+msgstr ""
+
+msgid "Can only use %s storage with UID of %s"
+msgstr ""
+
+msgid "The file %s is not a directory"
+msgstr ""
+
+msgid "Directory %s is already a mountpoint"
+msgstr ""
+
+msgid "Enable LiveUSB storage at %s"
+msgstr ""
