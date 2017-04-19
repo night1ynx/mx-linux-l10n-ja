@@ -20,7 +20,7 @@ msgstr ""
 
 #: usb-unmounter-start:13
 msgid "Unmount Media"
-msgstr "メディアのアンマウント"
+msgstr "メディアをアンマウント"
 
 #: usb-unmounter-start:14
 msgid "List Devices"
