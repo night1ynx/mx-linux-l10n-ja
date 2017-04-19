@@ -23,7 +23,7 @@ msgstr "ログアウト"
 
 #: exitantix.sh:28
 msgid "Lock Screen"
-msgstr ""
+msgstr "画面ロック"
 
 #: exitantix.sh:36
 msgid "Hibernate"
