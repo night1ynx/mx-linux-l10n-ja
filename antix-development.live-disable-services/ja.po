@@ -21,28 +21,28 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Customizing services"
-msgstr ""
+msgstr "サービスのカスタマイズ"
 
 msgid "Enabling %s services"
-msgstr "%s サービスを有効にしています"
+msgstr "%s サービスを有効化"
 
 msgid "Disabling %s services"
-msgstr "%s サービスを無効にしています"
+msgstr "%s サービスを無効化"
 
 msgid "Detected laptop/mobile device"
-msgstr ""
+msgstr "ラップトップ/モバイル端末として認識されました"
 
 msgid "Disabling some services %s"
-msgstr ""
+msgstr "次のサービスを無効化 %s"
 
 msgid "Disabling %s services %s"
-msgstr ""
+msgstr "%s サービスを無効化 %s"
 
 msgid "Disabling network services %s"
-msgstr ""
+msgstr "ネットワークサービスを無効化 %s"
 
 msgid "Disabling more services %s"
-msgstr ""
+msgstr "追加サービスを無効化 %s"
 
 msgid "Disabling NFS server %s"
-msgstr ""
+msgstr "NFS サーバーを無効化 %s"
