@@ -20,8 +20,8 @@ msgstr ""
 
 #: str-maker/ejectcd:5
 msgid "Please remove the disc, close the tray"
-msgstr ""
+msgstr "ディスクを取り出してください、トレイを閉じて"
 
 #: str-maker/ejectcd:6
 msgid "and press ENTER to continue"
-msgstr ""
+msgstr " ENTER を押すと継続します"
