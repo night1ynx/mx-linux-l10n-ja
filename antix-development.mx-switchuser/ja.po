@@ -20,7 +20,7 @@ msgstr ""
 
 #: mx-switchuser:7
 msgid "User Switching"
-msgstr ""
+msgstr "ユーザー切り替え"
 
 #: mx-switchuser:7
 msgid ""
@@ -29,8 +29,8 @@ msgid ""
 "To return to the original user, simply press Ctrl-Alt-F7. Go back again with Ctrl-Alt-F8.\n"
 "\n"
 "Do you want to switch to another user?"
-msgstr ""
+msgstr "現在のセッションを終了することなく、別のユーザーへ切り替えることができます。\n\n元のユーザーに戻したいときは Ctrl-Alt-F7 を押すだけです。Ctrl-Alt-F8 でまた切り替えます。\n\n他のユーザーに切り替えますか?"
 
 #: mx-switchuser:11
 msgid "Do not show this screen again"
-msgstr ""
+msgstr "この画面を次から表示しない"
