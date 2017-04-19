@@ -20,7 +20,7 @@ msgstr ""
 
 #: desktop-session-exit:80
 msgid "Lock Screen"
-msgstr ""
+msgstr "画面をロック"
 
 #: desktop-session-exit:81
 msgid "Hibernate"
@@ -44,4 +44,4 @@ msgstr "シャットダウン"
 
 #: desktop-session-exit:88
 msgid "Restart Session"
-msgstr ""
+msgstr "セッションを再起動"
