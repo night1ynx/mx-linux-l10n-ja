@@ -20,13 +20,14 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Localizing console and timezone"
-msgstr "コンソールとタイムゾーンの言語設定"
+msgstr "コンソールとタイムゾーンの設定"
 
+# timezone -> /etc/timezone, localtime -> /etc/localtime
 msgid "Setting timezone and localtime to %s"
-msgstr ""
+msgstr "timezone と localtime を %s に設定"
 
 msgid "Unknown time zone %s"
-msgstr ""
+msgstr "不明なタイムゾーン %s"
 
 msgid "Setting hostname to %s"
 msgstr "ホスト名を %s に設定"
@@ -35,10 +36,10 @@ msgid "Setting locale to %s"
 msgstr "ロケールを %s に設定"
 
 msgid "Configuring console for a %s keymap"
-msgstr ""
+msgstr "%s keymap のコンソールを構成"
 
 msgid "Setting console font to %s"
 msgstr "コンソールフォントを %s に設定"
 
 msgid "Unknown console font %s"
-msgstr ""
+msgstr "不明なコンソールフォント %s"
